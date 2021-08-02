@@ -14,4 +14,4 @@ This is a really simple environment for themes & plugins development.
 
 * Your WordPress installation will be available at `http://localhost:8000`
 * The `wp-content` folder you'll find in this repo will be shared with the WordPress installation, put your code there.
-* MySql data will persist between docker compose execution and will be accessibile via phpMyAdmin web interface
+* MySql data will persist between docker compose execution and will be accessibile via phpMyAdmin at `http://localhost:8080/`
